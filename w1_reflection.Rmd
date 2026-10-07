@@ -1,0 +1,18 @@
+---
+title: "Week 1 Reflection"
+author: "Macy Hayhurst"
+date: "2026-10-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TAG Team Reflection - WC 05/10/2026
+
+For week 1 of our data science group project, we focused on understanding the project brief. We held a Microsoft Teams meeting to discuss our approach to task management and collaboration. During this meeting we confirmed that everyone had created their own personal repositories. We then went on to discuss GitHub's features we could use to coordinate work and track progress - including issue boards, branches, discussion boards and pull requests
+
+This initial stage was crucial for establishing a shared understanding of the projects expectations. By covering GitHub's ability to be used as a primary tool for project management we ensured that task allocation would be transparent and efficient which will reduce the possibility for confusion later on.
+
+As a team we have agreed to a time for weekly calls to update where we are progress wise and if there are any issues we need to raise. We have also agreed to have a transcription recorded for every meeting to aid with writing our reports and reflective pieces as well as support other members of the team when absent from a meeting. At the end of each week we will note any questions we have for the lecturer that could not be answered by ourselves and ask these to then report back for the next meeting. We will also begin breaking down the brief into smaller, actionable tasks and assigning them to team embers via the GitHub issues. We will also set up a shared repository structure and agree on the coding standards to maintain consistency.
