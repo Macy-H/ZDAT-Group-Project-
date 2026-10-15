@@ -1,0 +1,46 @@
+---
+title: "Week 2 Reflectio"
+author: "Macy Hayhurst"
+date: "2026-10-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TAG Team Reflection - WC 12/10/2026
+
+For week 2 of my data science group project, I completed two main activities.
+
+I watched the video provided on the EARS (Easy Approach to Requirements Syntax) framework for writing requirements, which lasted 30 minutes. The video explained the different types of requirements (non-functional and functional) as well as the five main templates:
+
+- **Ubiquitous** - requirements that are always true and a constant throughout.
+
+- **Event-Driven** - a behaviour is triggered by an event.
+
+- **Error Handling and Unwanted Behaviour** - handling failures, faults and exceptional situations.
+
+- **State-Driven** - behaviour applies while in a specific state.
+
+- **Optional feature** - apply only when a features exists/is included.
+
+I found the EARS framework useful because it made be view a project brief in a more granular way yet still maintaining simplicity and focused aims. Before this, I tended to think of requirements as a general list of the things the project should achieve which now I understand introduces large ambiguity.
+
+A requirement I thought about which is a large part of the work we do was, 'the model should be able to handle messy data'. This doesn't say what counts as messy data or what the response should be. Using EARS, this could become: 'If a record contains missing values in required fields, then the pipeline shall flag and exclude the record from the model'. This is much clearer and can be tested. This will make the development of our system for the group project much more focused and will make it easier to delegate tasks. This matters in data science because projects often involve stakeholders who may not have technical background. This would mean unclear requirements could lead to a wasted effort, as building the tool would not meet what the customer needed. Clear requirements also make it easier to check work and perform validation.
+
+One thing I found difficult was understanding how detailed requirements should be and how to apply the framework to different situations. The more I practice applying the framework the confident I can be in using it. To apply what I have learnt this week, I will begin writing draft project requirements and ask for feedback from my team on whether my requirements follow the EARS framework correctly and are clear and testable. I will also peer review other members requirements if they have provided any. By Week 3, I aim to have written at least five requirements in EARS format for our project, and I will reflect on how well this worked.
+
+### **TAG Team Meeting (Microsoft Teams)**
+
+On Thursday 15th October, from 16:00 - 17:00, I attended the weekly TAG team meeting held on Microsoft Teams. I chose to transcribe the meeting so that writing our individual reflections would be easier and nothing would be forgotten. The transcript also gives anyone who misses a meeting, or has to leave early, a reference for what was discussed and decided. Transcribing the meeting was a useful decision. It reduced the pressure on me to take notes while leading discussion and screen-sharing, and it means every team member is working from the same record, which supports fairness and transparency in the team.
+
+The main outcome was that we set up a shared GitHub repository for the project. Hanifah led the set-up and shared her screen while she created it and we all confirmed we could clone it. Hanifah leading the repository set-up showed the value of team members taking ownership of different tasks, and confirming that everyone could clone the repository early avoided access problems later. I then led a discussion on what was still outstanding and how we should approach the rest of the project. This covered the folder structure and a reminder that everyone needs to watch this week’s required video before we move forward.
+
+I then created a branch and began writing a README containing the project brief. It will also be the place where we add project requirements and dashboard usage guides. I shared my screen while writing it, and as a team we picked out the key points to include, I made sure to ask questions to all team members whilst facilitating this conversation ensuring everyone had the chance to contribute. I also made sure an agenda was in place for next week’s meeting, along with what needs to be done beforehand. Taking the lead in several parts of the meeting, including the outstanding tasks, the README and the agenda, helped me to develop my organisation. Sharing my screen while writing the README meant the team could contribute in real time, which kept everyone engaged and helped us agree on the content together rather than me writing it in isolation.
+
+We agreed to split future meetings into two 30-minute sessions, one at the start of the week and one at the end. Splitting meetings into two shorter sessions should help us stay on track, because we will check in at the start of the week to plan and at the end to review progress.
+
+The FitBit dataset contains 18 CSV files, so with six of us we divided them equally, three files each. We used Copilot to separate and assign the files, and we chose to give each person a mixture of data types (for example sleep, calories and steps). I then proposed that by next Wednesday’s meeting at 14:00 we should have carried out exploratory data analysis (EDA) on our assigned files and started thinking about possible dashboard requirements. By Friday of next week we should consolidate those requirements and begin building a dashboard wireframe together, so that coding tasks can be delegated. Splitting the files equally and mixing the data types was a fair approach. It spreads the workload evenly and means each person will gain experience with different parts of the data, which should give us a broader understanding of the dataset when we bring our findings together. Using Copilot to do the split saved time and kept the allocation neutral.
+
+Before the next meeting, I will complete the EDA on my three assigned files, noting key patterns, missing values and anything that could inform a dashboard requirement. I will keep the README updated as the project develops, adding requirements and dashboard usage guidance as they are agreed. I will continue to use the meeting transcripts to keep the team informed and to support our reflections, and I will follow up with any team member who misses a session. Over the next week, I will help consolidate the team’s findings into a set of dashboard requirements using the EARS framework and contribute to the wireframe.
