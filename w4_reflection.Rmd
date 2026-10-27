@@ -1,0 +1,20 @@
+---
+title: "Week 4 Reflection"
+author: "Macy Hayhurst"
+date: "2026-10-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TAG Team Reflection - WC 26/10/2026
+
+\*\*NOTE: Project deadline has now been pushed back a week to 4th November 2026.
+
+### **TAG Team Meeting (Microsoft Teams) - 26/10/2026**
+
+### **TAG Team Meeting (Microsoft Teams) - 28/10/2026**
+
+### Quality Assurance of Team members code 
