@@ -63,8 +63,8 @@ Communication has not been a difficulty within the team, as every member has att
 
 ### Next Steps
 
-By the end of Monday I would have written the reusable function for the KIP widgets, so everyone can use them when developing their pages. I will also establish the page-by-page breakdown of requirements, so everyone knows which page and requirements they own.
+By the end of Monday I would have written the reusable function for the KIP widgets, so everyone can use them when developing their pages. I will also establish the page-by-page breakdown of requirements, so everyone knows which page and requirements they own. I will also begin working on `mod_heartrate.R` establishing the UI and Server functionality as well as finalising wireframe details for this part of the dashboard.
 
 As a team we will then use the finalised wireframe to guide development, and check each page against its requirements as it is built. We will keep the shared requirements document up to date as things change and review progress at the next team meeting on 26/10/2026.
 
-I will continue to develop my leadership and delegation by checking in with other members in the team on blockers before deadlines, rather than only at meetings.
+I will continue to develop my leadership and delegation by checking in with other members in the team on blockers before deadlines, rather than only at meetings. As well as this, I will perform an outstanding work for reviewing other team members code promptly so work can be merged back and progress can be made.
