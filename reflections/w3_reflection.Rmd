@@ -17,9 +17,7 @@ I carried out EDA on my three assigned files (`hourlySteps_merged`, `heartrate_s
 
 The gap in coverage matters because of how the data is likely to be collected. Steps are recorded automatically by the FitBit device, which explains the full coverage. Weight is probably entered manually, so fewer athletes use it. This may be down to a reluctance to share it. Manual entry also makes the data less reliable, because it depends on athletes entering accurate values consistently. These are my interpretations of the pattern, not confirmed facts.
 
-This has direct design consequences. A weight page built on 8 athletes cannot be treated like the activity page, which has full coverage. Comparisons or leader boards based on weight could be misleading, so the dashboard should show how many athletes the data covers and handle missing data clearly. This created a challenge for deciding how to present weight information on the dashboard because this would affect how the page is designed and tested. To help decide this, I took it to the team as a question for the wireframe discussion. This showed me that a good dashboard has to account for the quality and coverage of the data behind each page, not only what the data can show.
-
-Basing my requirements on the EDA, rather than assumptions, meant they already reflected these limits, and I arrived at the meeting on Wednesday with something to contribute.
+This has direct design consequences. A weight page built on 8 athletes cannot be treated like the activity page, which has full coverage. Comparisons or leader boards based on weight could be misleading, so the dashboard should show how many athletes the data covers and handle missing data clearly. This created a challenge for deciding how to present weight information on the dashboard because this would affect how the page is designed and tested. To help decide this, I took it to the team as a question for the wireframe discussion. This showed me that a good dashboard has to account for the quality and coverage of the data behind each page, not only what the data can show. Basing my requirements on the EDA, rather than assumptions, meant they already reflected these limits, and I arrived at the meeting on Wednesday with something to contribute.
 
 ### **TAG Team Meeting (Microsoft Teams) - 21/10/2026**
 
@@ -34,11 +32,11 @@ I created the initial R Shiny dashboard, with a sidebar navigating to five pages
 ``` text
 2007_tag_task_1/
 ├── app.R # loads packages, sources R/ files, defines UI and server
-├── data_prep.R # Data cleaning and preparation
 └── R/
     ├── functions/              # Reusable helpers shared across pages
     │   ├── kpi_widget.R        # KPI widget
     │   └── leaderboard_dt.R    # Leaderboard DT rendering
+    ├── global/                 # Contains Data loading functions 
     └── pages/                  # One module per dashboard page
         ├── activity.R
         ├── sleep.R
