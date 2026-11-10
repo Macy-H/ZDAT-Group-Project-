@@ -4,3 +4,15 @@ author: "Macy Hayhurst"
 date: "2026-11-02"
 output: html_document
 ---
+
+# TAG Team Reflection - WC 02/11/2026
+
+### **TAG Team Meeting (Microsoft Teams) - 04/11/2026**
+
+At this weeks TAG Team meeting, we recorded our group video presentation. Eleanor and Yash were unable to attend, and because the submission deadline was later that day, we couldn't move the meeting to a time that suited everyone. To make sure the team was still prepared, I asked them to write up some information about their parts of the project that the rest of us could talk about in the recording. Eleanor had been working on the activity page and Yash had been working on the Calories page.
+
+Their absence could have left gaps in the presentation, and I was concerned we wouldn't be able to represent their work confidently. Asking them for written notes meant the work they had done was still properly reflected, and it gave those of us presenting something to refer to. It also kept the team on track for the deadline. Having their notes meant that, despite Eleanor and Yash eing absent, the presentation still went smoothly. We had one minute per tab of the dashboard, and the witten information let us cover their sections accuratly and within the time limt.
+
+I think I could've asked for the notes earlier in the week, rather than relying on the meeting going ahead as planned. Leaving it until the meeting put pressure on everyone and gave Eleanor and Yash little time to prepare. It also showed me how much a fixed deadline limits a team's flexibility, why plans matter when working with multiple peoples availability.
+
+In future group projects and team work, I will check attendance for key meetings earlier, and ask for written handover notes in advance son the work isn't dependent on everyone being present. I will also suggest that we agree a backup plan such as alternative meeting times or a shared document for each persons contribution. In my apprenticeship, the same approach would help when colleagues are away at busy periods, so that work can continue without delay.
