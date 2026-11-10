@@ -1,0 +1,32 @@
+---
+title: "video_presentation_reviews"
+output: html_document
+---
+
+### **Video Presentation Review** 
+
+I watched all the video presentations from each team. I have given a short review and reflection of each video presentation.
+
+**Group 10**
+
+The introduction was strong, as it set out what would be covered and by whom, although the delivery felt very scripted. The dashboard demo linked well to how a user would actually use it, and what they could learn from it to change their behaviour or understand their activity better. The group also explained how they worked as a team to produce the final dashboard which I think was a good addition.
+
+**Group 3**
+
+I liked the overview page, which gives the users a quick first view of activity within the friendship group. The dashboard looked professional and well structured, but some tables and graphs weren't very intuitive, so users may struggle to take meaningful information from them. The summary sentence under each figure explaining what it showed was a helpful touch.
+
+**Jayls Team**
+
+The presentation covered important topics and was delivered cohesively, but there was little focus on the dashboard itself and not much of a view of the final product. I liked how they broke the project into stages and walked through it from start to finish. The dashboard’s group view and individual view were a good feature.
+
+**Group 7**
+
+This was a good presentation, and it was interesting to see the project taken in a different direction, presenting awards. It would have been nice to see everyone who contributed to the team take part in the presentation.
+
+**Group 9**
+
+The dashboard was very cohesive, with consistent design throughout and a simple interface for users. Everyone had a chance to contribute, and it was clear how they worked together to produce the final product. They also discussed challenges they faced and how these affected the dashboard, as well as how the page could be improved. The presentation could have been better organised, which would also have made it shorter.
+
+**Group 8**
+
+I liked that when the page first loads, a pop-up tells the user there is no data yet and prompts them to run a search to populate the page. Everyone contributed well, and the dashboard was cohesive throughout.
