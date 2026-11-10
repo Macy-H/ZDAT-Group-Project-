@@ -3,7 +3,7 @@ title: "video_presentation_reviews"
 output: html_document
 ---
 
-### **Video Presentation Review** 
+### **Video Presentation Review**
 
 I watched all the video presentations from each team. I have given a short review and reflection of each video presentation.
 
